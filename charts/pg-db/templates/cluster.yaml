@@ -1,5 +1,5 @@
-apiVersion: pgv2.percona.com/v2
-kind: PerconaPGCluster
+apiVersion: pgv2.agora.com/v2
+kind: AgoraPGCluster
 metadata:
   annotations:
     current-primary: {{ include "pg-database.fullname" . }}

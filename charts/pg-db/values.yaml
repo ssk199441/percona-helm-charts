@@ -9,7 +9,7 @@ finalizers:
 #  - percona.com/delete-ssl
 
 crVersion: 2.2.0
-repository: percona/percona-postgresql-operator
+repository: ssk1994/agora-postgresql-operator
 image: ""
 imagePullPolicy: Always
 postgresVersion: 15
